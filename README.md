@@ -46,3 +46,8 @@ documentacao gerada pela aplicação:
 ```shell script
 swagger: http://localhost:8080/swagger-ui-heroes-reactive-api.html
 ```
+
+documentação gerada pelo postman
+```shell script
+https://documenter.getpostman.com/view/14662521/TWDXoGwD
+```
