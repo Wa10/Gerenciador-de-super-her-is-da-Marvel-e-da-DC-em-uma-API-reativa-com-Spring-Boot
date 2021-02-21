@@ -14,6 +14,7 @@
   * reactor
 
 
+
 Tópicos abordados no bootcamp para esse projeto:
 
 * Java Reativo
@@ -22,6 +23,7 @@ Tópicos abordados no bootcamp para esse projeto:
 * Conta na AWS
 * Logar na Aws para usar o dynamoDB
 * Spring Framework
+
 
   
 Obs: É necessário ter o aws cli configurado.
